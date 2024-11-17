@@ -1,7 +1,11 @@
 # Hi there, I'm Aoli!
 
 ## About Me
-I'm passionate about creating apps that work seamlessly across phones, tablets, and computers. I love using Flutter and Dart to bring my ideas to life, always thinking about how they could solve real-world problems. Right now, I'm focused on building my own projects and learning as much as I can. I'm also excited about tools like Copilot that help me code more efficiently. I'm a bit shy about sharing my work right now, but I'm hoping to build up my confidence and show the world what I can do soon!
+I'm passionate about building cross-platform apps with Flutter and Dart, bringing my ideas to life on iOS, Android, and the web. I'm always learning and love to explore new technologies like Copilot to help me code smarter and faster.
+
+My projects usually involve user authentication and data storage using powerful backend services like Firebase and Supabase. I'm also eager to learn more about cloud functions to make my apps even more dynamic.
+
+I'm excited to continue growing as a developer and eventually share my creations with the world!
 
 ## Learning / Skills
 - **Languages**: Dart, JavaScript, Python
