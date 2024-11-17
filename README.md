@@ -15,10 +15,10 @@ I'm a passionate developer who loves to learn and build new things. I'm particul
 - **[Project 2](https://github.com/Aoli/project2)**: TBD.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/)
-- [Twitter](https://twitter.com/aoli)
+- [LinkedIn](https://www.linkedin.com/) TBD
+- [Twitter](https://twitter.com/aoli) TBD
 
 ## GitHub Stats
 ![Aoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aoli&show_icons=true&theme=radical)
 
-Thank you for visiting my profile!
+Thank you for visiting my profile, I will update the profile soon!
