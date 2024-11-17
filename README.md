@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Aoli!
 
-<!--
-**Aoli/Aoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer who loves to learn and build new things. I'm particularly interested in web development, open-source projects, and DevOps.
 
-Here are some ideas to get you started:
+## Learning / Skills
+- **Languages**: Dart, JavaScript, Python
+- **Framwork**: Flutter
+- **Cloud / backend**: Firebase, Supabase
+- **Web Development**: HTML, CSS
+- **Databases**: MySQL, PostgressSQL, NoSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Project 1](https://github.com/Aoli/project1)**: TBD.
+- **[Project 2](https://github.com/Aoli/project2)**: TBD.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/)
+- [Twitter](https://twitter.com/aoli)
+
+## GitHub Stats
+![Aoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aoli&show_icons=true&theme=radical)
+
+Thank you for visiting my profile!
