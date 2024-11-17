@@ -1,7 +1,7 @@
 # Hi there, I'm Aoli!
 
 ## About Me
-I'm a passionate developer who loves to learn and build new things. I'm particularly interested in web development, open-source projects, and DevOps.
+I'm passionate about creating apps that work seamlessly across phones, tablets, and computers. I love using Flutter and Dart to bring my ideas to life, always thinking about how they could solve real-world problems. Right now, I'm focused on building my own projects and learning as much as I can. I'm also excited about tools like Copilot that help me code more efficiently. I'm a bit shy about sharing my work right now, but I'm hoping to build up my confidence and show the world what I can do soon!
 
 ## Learning / Skills
 - **Languages**: Dart, JavaScript, Python
