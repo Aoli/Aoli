@@ -17,7 +17,6 @@ I'm passionate about building cross-platform apps with Flutter and Dart, bringin
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/) TBD
 
-## GitHub Stats
-![Aoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aoli&show_icons=true&theme=radical)
+
 
 Thank you for visiting my profile, I will update the profile soon!
